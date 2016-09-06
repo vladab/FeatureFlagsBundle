@@ -1,8 +1,8 @@
 {
-    "name": "dzunke/feature-flags-bundle",
+    "name": "vladab/feature-flags-bundle",
     "description": "Symfony2 Bundle to implement Feature Flags to your Application",
     "keywords": ["symfony", "bundle", "feature flags"],
-    "homepage": "https://github.com/DZunke/FeatureFlagsBundle",
+    "homepage": "https://github.com/vladab/FeatureFlagsBundle",
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
@@ -21,7 +21,7 @@
     "autoload": {
         "psr-0": { "DZunke\\FeatureFlagsBundle": "" }
     },
-    "target-dir": "DZunke/FeatureFlagsBundle",
+    "target-dir": "Vladab/FeatureFlagsBundle",
     "extra": {
         "branch-alias": {
             "dev-master": "dev-dev"
